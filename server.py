@@ -4,9 +4,9 @@ from twilio.jwt.access_token import AccessToken, VoiceGrant
 from twilio.rest import Client
 import twilio.twiml
 
-ACCOUNT_SID = 'AC***'
-API_KEY = 'SK***'
-API_KEY_SECRET = '***'
+ACCOUNT_SID = 'ACbc7a31f67f1e8057b86a2f5b42790f99'
+API_KEY = 'SK6dd2d1fa9a0b88d1e5610b569d63a971'
+API_KEY_SECRET = 'c3B8On0Vc30twKiVKeyIVCys4vG5Tn3n'
 PUSH_CREDENTIAL_SID = 'CR***'
 APP_SID = 'AP***'
 
